@@ -24,6 +24,6 @@ Integrantes
 - Daniela Torres (Institucional)(Desarrolladora principal)
 - Carmen Alicia Sánchez Alean(Desarrolladora secundario)
 - Leonela Rodiño Tarráz(Desarrolladora secundario)
-- Jesus Miguel Ramos Díaz(Desarrolladora secundario)
+- Jesus Miguel Ramos Díaz(Desarrollador secundario)
 - Yuranis María Ubarnes Salazar (Desarrolladora secundario)
 
