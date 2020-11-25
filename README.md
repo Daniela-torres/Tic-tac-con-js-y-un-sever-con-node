@@ -26,3 +26,4 @@ Integrantes
 - Leonela Rodiño Tarráz(Desarrolladora secundario)
 - Jesus Miguel Ramos Díaz(Desarrolladora secundario)
 - Yuranis María Ubarnes Salazar (Desarrolladora secundario)
+
