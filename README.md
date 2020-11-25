@@ -22,7 +22,7 @@ Automaticamente se ejecutara en el puerto 3000
 Integrantes
 
 - Daniela Torres (Institucional)(Desarrolladora principal)
-- Carmen Alicia Sánchez Alean(Desarrolladora secundario)
+- Carmen Alicia Sánchez (Desarrolladora secundario)
 - Leonela Rodiño Tarráz(Desarrolladora secundario)
 - Jesus Miguel Ramos Díaz(Desarrollador secundario)
 - Yuranis María Ubarnes Salazar (Desarrolladora secundario)
