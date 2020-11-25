@@ -25,6 +25,5 @@ Integrantes
 - Carmen Alicia Sánchez Alean(Desarrolladora secundario)
 - Leonela Rodiño Tarráz(Desarrolladora secundario)
 - Jesus Miguel Ramos Díaz(Desarrollador secundario)
-- Jesús Miguel Ramos Díaz(Desarrolladora secundario)
 - Yuranis María Ubarnes Salazar (Desarrolladora secundario)
 
